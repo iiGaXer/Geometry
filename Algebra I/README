@@ -1,0 +1,26 @@
+! NOTES FOR CIRCLE.PY ! 
+
+- 
+    # IMPORTANT CODE: NOTES
+    # center = (0, 0)
+    # radius = 5
+
+    # circle_1 = plt.Circle(center, radius, color='r', linewidth=2, fill=False)
+    # ax.add_patch(circle_1)
+
+    # center_2 = (0, 0)
+    # radius_2 = 8
+
+    # circle_2 = plt.Circle(center_2, radius_2, color='b', linewidth=2, fill=False)
+    # ax.add_patch(circle_2)
+
+    # for i in range(10):
+    #     radius.append(i + 1)
+    #     circle.append(plt.Circle(origin, radius[i], linewidth=2, fill=False))
+    #     ax.add_patch(circle[i])
+
+    #     if i == 9:
+    #         radius.clear()
+    #         circle.clear()
+    
+-
