@@ -6,7 +6,7 @@ fig, ax = plt.subplots()
 
 def midpoint(x, y, midX, midY):
     """First make a midpoint variable to hold the midpoint value after it calulates it,
-    then send that calculated value to the varible"""
+    then send that calculated value to the varible. This is for exclusively for Quadrilaterials."""
 
     #! Use this for midpoints
     # for i in range(len(x)):
@@ -32,7 +32,7 @@ midy = []
 
 midpoint(MidlineX, MidlineY, midx, midy)
 
-plt.title('Algebra: Properties of Quadrilaterals')
+plt.title('Shapes: Properties of Quadrilaterals')
 plt.xlabel('x-coordinate')
 plt.ylabel('y-coordinate')
 plt.plot(MidlineX, MidlineY, color='orange')
