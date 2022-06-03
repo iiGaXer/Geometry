@@ -1,4 +1,4 @@
-from tkinter import CENTER
+# from tkinter import CENTER
 from turtle import color
 import matplotlib.pyplot as plt
 import numpy as np
